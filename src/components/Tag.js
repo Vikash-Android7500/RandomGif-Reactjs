@@ -17,7 +17,8 @@ const Tag = () => {
           alt="Gif File"
           className="w-[400px] h-[310px] m-auto rounded-lg"
         />
-      )}
+      )
+      }
 
       <input
         className="w-[550px] p-2 rounded-lg"
