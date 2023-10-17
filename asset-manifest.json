@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RandomGifs-ReactJS/static/css/main.8ed7f8af.css",
+    "main.js": "/RandomGifs-ReactJS/static/js/main.62119da3.js",
+    "index.html": "/RandomGifs-ReactJS/index.html",
+    "main.8ed7f8af.css.map": "/RandomGifs-ReactJS/static/css/main.8ed7f8af.css.map",
+    "main.62119da3.js.map": "/RandomGifs-ReactJS/static/js/main.62119da3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ed7f8af.css",
+    "static/js/main.62119da3.js"
+  ]
+}
