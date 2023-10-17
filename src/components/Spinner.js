@@ -2,9 +2,8 @@ import "../index.css";
 
 const Spinner = () => {
      return (
-          <div className="spinner">
-
-          </div>
+          <hr className="spinner">
+          </hr>
      );
 };
 export default Spinner;
